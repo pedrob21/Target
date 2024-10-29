@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730235195 source:c:\users\g-fire\desktop\random facul\target\string\main.c
+	<stdio.h>
+	<stdlib.h>
+
